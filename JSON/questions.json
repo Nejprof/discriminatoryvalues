@@ -1,6 +1,6 @@
 [
     {
-      "question": "White people are superior to other races, and eugenics are an acceptable means of achieving a white ethnostate.",
+      "question": "Běloši jsou nadřazenou rasu a eugenika jsou přijatelným způsobem k dosažení plohodnotného bílého etnostátu.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -11,7 +11,7 @@
       }
     },
     {
-      "question": "Black people are superior to other races, and eugenics are an acceptable means of achieving a black ethnostate.",
+      "question": "Černoši jsou nadřazenou rasu a eugenika jsou přijatelným způsobem k dosažení plohodnotného černošského etnostátu..",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "question": "Blacks are to be the slaves of whites.",
+      "question": "Černoši mají být otroci bílých.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -33,7 +33,7 @@
       }
     },
     {
-      "question": "Whites are to be the slave of blacks.",
+      "question": "Běloši mají být otroci černých.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -44,7 +44,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with using strong ethnic slurs against black people.",
+      "question": "Na hrubém verbálním ponižování černochů není nic špatného.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -55,7 +55,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with using strong ethnic slurs against white people.",
+      "question": "Na hrubém verbálním ponižování bělochů není nic špatného.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -66,7 +66,7 @@
       }
     },
     {
-      "question": "The Democratic Party is a black nationalist party.",
+      "question": "Demokratická strana v USA je pro-černošská.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -77,7 +77,7 @@
       }
     },
     {
-      "question": "The Republican Party is a white nationalist party.",
+      "question": "Republikánská strana v USA je pro-bělošské..",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -88,7 +88,7 @@
       }
     },
     {
-      "question": "Hate crimes against whites are inherently justified.",
+      "question": "Nenávistné projevy vůči bílým jsou spravedlivé.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -99,7 +99,7 @@
       }
     },
     {
-      "question": "Hate crimes against blacks are inherently justified.",
+      "question": "Nenávistné projevy vůči černým jsou spravedlivé.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -110,7 +110,7 @@
       }
     },
     {
-      "question": "The Democratic Party, if it has not already embraced black supremacy, should embrace black supremacy.",
+      "question": "Americká demokratická strana, zda-li neadaptovala nadřazenost černé rasy by jej měla adoptovat.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -121,7 +121,7 @@
       }
     },
     {
-      "question": "Alt-Right racial theory is good.",
+      "question": "Rasová teorie krajní pravice je skvělá.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -132,7 +132,7 @@
       }
     },
     {
-      "question": "A white America with no record of blacks in its history is to be preferred.",
+      "question": "Bělošská Amerika bez žádných známek černochů v rámci její historie by měla být upřednostňována.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -143,7 +143,7 @@
       }
     },
     {
-      "question": "A black America with no record of whites in its history is to be preferred.",
+      "question": "Bělošská Amerika bez žádných známek černochů v rámci její historie by měla být upřednostňována.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -154,7 +154,7 @@
       }
     },
     {
-      "question": "Whites are simply less evolved than blacks.",
+      "question": "Běloši jsou v podstatě méně vyvinutí než černoši.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -165,7 +165,7 @@
       }
     },
     {
-      "question": "Blacks are simply less evolved than whites.",
+      "question": "Černoši jsou v podstatě méně vyvinutí než černoši.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -176,7 +176,7 @@
       }
     },
     {
-      "question": "Black people should have the legal ability to participate in civil life like a white person.",
+      "question": "Černoši by měli mít základní právo se angažovat v občanském životě, stejně jako běloši.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -187,7 +187,7 @@
       }
     },
     {
-      "question": "White people should have the legal ability to participate in civil life like a black person.",
+      "question": "Běloši by měli mít základní právo se angažovat v občanském životě, stejně jako černoši.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -198,7 +198,7 @@
       }
     },
     {
-      "question": "Black people should have the right to vote, participate in government, etc.",
+      "question": "Černoši by měli mít právo volit, pracovat ve vládě, atd.",
       "effect": {
         "rcsm": -10,
         "sxsm": 0,
@@ -209,7 +209,7 @@
       }
     },
     {
-      "question": "White people should have the right to vote, participate in government, etc.",
+      "question": "Černoši by měli mít právo volit, pracovat ve vládě, atd.",
       "effect": {
         "rcsm": 10,
         "sxsm": 0,
@@ -220,7 +220,7 @@
       }
     },
     {
-      "question": "The man should head the house.",
+      "question": "Muž by měl být hlavou domácnosti.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -231,7 +231,7 @@
       }
     },
     {
-      "question": "The woman should head the house.",
+      "question": "Žena by měla být hlavou domácnosti.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -242,7 +242,7 @@
       }
     },
     {
-      "question": "Women should have no place in the military.",
+      "question": "Ženy by neměly ve vojně vůbec co dělat.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -253,7 +253,7 @@
       }
     },
     {
-      "question": "Women are property.",
+      "question": "Ženy jsou majetek.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -264,7 +264,7 @@
       }
     },
     {
-      "question": "Men are property.",
+      "question": "Muži jsou majetek.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -275,7 +275,7 @@
       }
     },
     {
-      "question": "Traditional gender roles are unfairly patriarchal.",
+      "question": "Tradiční genderové role jsou nespravedlivě patriarchální.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -286,7 +286,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with radical feminism.",
+      "question": "Na radikálním feminismu není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -297,7 +297,7 @@
       }
     },
     {
-      "question": "A woman should have the right to vote.",
+      "question": "Žena by měla mít právo volit.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -308,7 +308,7 @@
       }
     },
     {
-      "question": "Women are gentler, and they should have more power in government due to that trait.",
+      "question": "Ženy jsou slabší pohlaví, a tak by měly kvůli této vlastnosti mít ve vládě více pravomoci.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -319,7 +319,7 @@
       }
     },
     {
-      "question": "I'd rather have only one dad than only one mom.",
+      "question": "Raději bych chtěl/a mít jednoho tátu než jednu mámu.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -330,7 +330,7 @@
       }
     },
     {
-      "question": "Patriarchy is a desirable goal.",
+      "question": "Patriarchát je žádoucí cíl.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -341,7 +341,7 @@
       }
     },
     {
-      "question": "Men are inherently sex predators and rapists.",
+      "question": "Můži jsou ze své podstaty sexuální predátoři a znásilňovači.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -352,7 +352,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with objectifying women.",
+      "question": "Na považování žen za druhořadé není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -363,7 +363,7 @@
       }
     },
     {
-      "question": "I trust men more than women in terms of government and labor.",
+      "question": "Co se týče vlády a práce, tak věřím více mužům než ženám.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -374,7 +374,7 @@
       }
     },
     {
-      "question": "The manosphere is a bulwark against the corrosion of the nuclear family unit.",
+      "question": "Manosféra je opora vůči destrukci zásadní rodinné jednotky.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -385,7 +385,7 @@
       }
     },
     {
-      "question": "Matriarchy is a desirable goal.",
+      "question": "Matriarchát je žádoucí cíl.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -396,7 +396,7 @@
       }
     },
     {
-      "question": "Affirmative action given to women is a must for society.",
+      "question": "Afirmativní akce poskytované ženám jsou pro společnost nezbytné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -407,7 +407,7 @@
       }
     },
     {
-      "question": "Even first-wave feminism is bad.",
+      "question": "Dokonce i feminismus první vlny je špatný.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -418,7 +418,7 @@
       }
     },
     {
-      "question": "Women have no place in society.",
+      "question": "Ženy by neměly mít místo ve společnosti.",
       "effect": {
         "rcsm": 0,
         "sxsm": -10,
@@ -429,7 +429,7 @@
       }
     },
     {
-      "question": "Men have no place in society.",
+      "question": "Muži by neměli mít místo ve společnosti.",
       "effect": {
         "rcsm": 0,
         "sxsm": 10,
@@ -440,7 +440,7 @@
       }
     },
     {
-      "question": "Adults take precedence over children.",
+      "question": "Dospělí by měli mít nad dětmi převahu.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -451,7 +451,7 @@
       }
     },
     {
-      "question": "A minimum voting age will be beneficial to society.",
+      "question": "Minimální volitelský věk je pro společnost prospěšný.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -462,7 +462,7 @@
       }
     },
     {
-      "question": "A maximum voting age will be beneficial to society.",
+      "question": "Maximální volitelský věk je pro společnost prospěšný.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -473,7 +473,7 @@
       }
     },
     {
-      "question": "Criminally charging two teenagers of the same age who had consensual sex is good.",
+      "question": "Zatknout dva teenagery, kteří měli nenucený sex je v pohodě.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -484,7 +484,7 @@
       }
     },
     {
-      "question": "Criminally charging two centenarians of the same age who had consensual sex is a must.",
+      "question": "Zatknutí dvou gerontů, kteří měli nenucený sex je v pohodě.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -495,7 +495,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with arresting minors in possession of alcohol or drugs.",
+      "question": "Na zatknutí nezletilých užívajících alkohol či drogy není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -506,7 +506,7 @@
       }
     },
     {
-      "question": "There is nothing wrong with arresting adults or old people in possession of alcohol or drugs.",
+      "question": "Na zatknutí dospělých nebo seniorů užívající alkohol či drogy není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -517,7 +517,7 @@
       }
     },
     {
-      "question": "People under a certain age (16 for example) should not be allowed to drive.",
+      "question": "Lidé pod určitou věkovou hranicí (například 18) by němeli mít právo řídit.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -528,7 +528,7 @@
       }
     },
     {
-      "question": "People over a certain age (80 for example) should not be allowed to drive.",
+      "question": "Lidé nad určitou věkovou hranicí (například 80) by němeli mít právo řídit.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -539,7 +539,7 @@
       }
     },
     {
-      "question": "Children are the property of adults.",
+      "question": "Děti jsou majetkem dospělých.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -550,7 +550,7 @@
       }
     },
     {
-      "question": "Adults are the property of children.",
+      "question": "Dospělí jako majetkem dětí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -561,7 +561,7 @@
       }
     },
     {
-      "question": "Children are incompetent when it comes to making good decisions about permanent life choices.",
+      "question": "Děti jsou ještě neschopné v dělání dobrých rozhodnutí co se týče trvalých životních směrů.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -572,7 +572,7 @@
       }
     },
     {
-      "question": "Adults and the elderly are incompetent when it comes to making good decisions about permanent life choices.",
+      "question": "Dospělí a senioři jsou ještě neschopní v dělání dobrých rozhodnutí co se týče trvalých životních směrů.",      
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -583,7 +583,7 @@
       }
     },
     {
-      "question": "The Children's Online Privacy Protection Act is not there to protect children but to just infringe on rights.",
+      "question": "GDPR neexistuje od toho aby ochránilo děti, nýbrž aby porušovalo jejich práva.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -594,7 +594,7 @@
       }
     },
     {
-      "question": "Restraining elderly people on what they can do on the internet is a must.",
+      "question": "Omezení seniorů v tom, co mohou dělat na internetu je nezbytné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -605,7 +605,7 @@
       }
     },
     {
-      "question": "Children take precedence over adults.",
+      "question": "Děti mohou mít nad dospělými převahu.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -616,7 +616,7 @@
       }
     },
     {
-      "question": "We must keep children out of governemnt.",
+      "question": "Děti se nesmí dostat do vlády.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -627,7 +627,7 @@
       }
     },
     {
-      "question": "We must keep the elderly out of governemnt.",
+      "question": "Senioři se nesmí dostat do vlády.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -638,7 +638,7 @@
       }
     },
     {
-      "question": "Young peoples' rights are expendable.",
+      "question": "Práva mládeže jsou rozšířitelná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -649,7 +649,7 @@
       }
     },
     {
-      "question": "Old peoples' rights are expendable.",
+      "question": "Práva seniorů  jsou rozšířitelná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -660,7 +660,7 @@
       }
     },
     {
-      "question": "Civil unions between people of the same sex are not marriage.",
+      "question": "Registrovaná partnerství nejsou totéž jako homosexuální svatba.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -671,7 +671,7 @@
       }
     },
     {
-      "question": "I enjoy making very homophobic remarks just because thare is nothing wrong with it.",
+      "question": "Líbi se mi mít velmi homofóbní poznámky, protože na tom není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -682,7 +682,7 @@
       }
     },
     {
-      "question": "I feel uncomfortable around heterosexual people.",
+      "question": "Kolem heterosexuálů se necítím pohodlně.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -693,7 +693,7 @@
       }
     },
     {
-      "question": "I feel uncomfortable around homosexual people.",
+      "question": "Kolem homosexuálů se necítím pohodlně.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -704,7 +704,7 @@
       }
     },
     {
-      "question": "Homosexuality is deplorable.",
+      "question": "Homosexualita je hanebná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -715,7 +715,7 @@
       }
     },
     {
-      "question": "Heterosexuality is deplorable.",
+      "question": "Heterosexualita je hanebná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -726,7 +726,7 @@
       }
     },
     {
-      "question": "Homosexual intercourse should be against the law.",
+      "question": "Homosexualní pohlavní styk by měl nelegální.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -737,7 +737,7 @@
       }
     },
     {
-      "question": "Heterosexual intercourse should be against the law.",
+      "question": "Heterosexualní pohlavní styk by měl být nelegální.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -748,7 +748,7 @@
       }
     },
     {
-      "question": "I've contemplated vandalizing homosexual peoples' houses on the basis of them being homosexual.",
+      "question": "Uvažoval/a jsem nad zvandalizováním domů homosexuálů na základě toho, že jsou teplí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -759,7 +759,7 @@
       }
     },
     {
-      "question": "I've contemplated vandalizing straight peoples' houses on the basis of them being straight.",
+      "question": "Uvažoval/a jsem nad zvandalizováním domů heterosexuálů na základě toho, že jsou straight.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -770,7 +770,7 @@
       }
     },
     {
-      "question": "An all-straight commune would be desirable, even if eugenics are used to acheive it.",
+      "question": "Výhradně heterosexuální společnost je žádoucí i přesto, že by k jejímu dosažení byla využita eugenika.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -781,7 +781,7 @@
       }
     },
     {
-      "question": "An all-gay commune would be desirable, even if eugenics are used to acheieve it.",
+      "question": "Výhradně homosexuální společnost je žádoucí i přesto, že by k jejímu dosažení byla využita eugenika.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -792,7 +792,7 @@
       }
     },
     {
-      "question": "Straights are an unfairly marginalized group.",
+      "question": "Heteráci jsou nespravedlivě marginalizovaná skupina.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -803,7 +803,7 @@
       }
     },
     {
-      "question": "Gays are an unfairly marginalized group.",
+      "question": "Gayové jsou nespravedlivě marginalizovaná skupina.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -814,7 +814,7 @@
       }
     },
     {
-      "question": "Hampering gay pride marches is desirable.",
+      "question": "Omezování gayovských pride pochodů je žádoucí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -825,7 +825,7 @@
       }
     },
     {
-      "question": "I enjoy making very heterophobic remarks just because thare is nothing wrong with it.",
+      "question": "Líbi se mi mít velmi heterofóbní poznámky, protože na tom není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -836,7 +836,7 @@
       }
     },
     {
-      "question": "Acceptance of sexual minorities is desirable.",
+      "question": "Porozumění sexuálním menšinám je žádoucí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -847,7 +847,7 @@
       }
     },
     {
-      "question": "Affirmative action should be given to homosexuals.",
+      "question": "Afirmativní akce by měly být poskytnuté homosexuálům.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -858,7 +858,7 @@
       }
     },
     {
-      "question": "I would never sell a wedding cake to a gay or lesbian couple.",
+      "question": "Nikdy bych neprodal/a svatební dort gayovskému či lesbickému páru.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -869,7 +869,7 @@
       }
     },
     {
-      "question": "I would never sell a wedding cake to a heterosexual couple.",
+      "question": "Nikdy bych neprodal/a svatební dort heterosexuálnímu páru.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -880,7 +880,7 @@
       }
     },
     {
-      "question": "Transgender people are invalid.",
+      "question": "Transgendeři jsou invalidní.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -891,7 +891,7 @@
       }
     },
     {
-      "question": "Cisgender people are invalid.",
+      "question": "Cisgendeři jsou invalidní.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -902,7 +902,7 @@
       }
     },
     {
-      "question": "Transgender people are to be given special treatment because they've escaped their birth gender.",
+      "question": "Transgenderům musí být dána zvláštní péče, neboť se od svého biologického pohlaví distancovali.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -913,7 +913,7 @@
       }
     },
     {
-      "question": "Cisgendered people should be given special treatment due to the fact that they know their gender.",
+      "question": "Cisgenderům musí být dána zvláštní péče, neboť dobře ví kdo jsou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -924,7 +924,7 @@
       }
     },
     {
-      "question": "Trans people are unfairly treated by society.",
+      "question": "Naše společnost bere translidi nespravedlivě.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -935,7 +935,7 @@
       }
     },
     {
-      "question": "Cisgender people are unfairly treated by society.",
+      "question": "Naše společnost bere cisgendery nespravedlivě.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -946,7 +946,7 @@
       }
     },
     {
-      "question": "I enjoy insulting trans people with slurs because there simply isn't anything wrong with it.",
+      "question": "Rád/a urážím a ponižuji translidi čistě z toho, že s tím není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -957,7 +957,7 @@
       }
     },
     {
-      "question": "I enjoy insulting cis people with slurs because there is simply nothing wrong with it.",
+      "question": "Rád/a urážím a ponižuji cisgendery čistě z toho, že s tím není nic špatného",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -968,7 +968,7 @@
       }
     },
     {
-      "question": "Cisgenderism is deplorable.",
+      "question": "Cisgender je hanebný.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -979,7 +979,7 @@
       }
     },
     {
-      "question": "Transgenderism is deplorable.",
+      "question": "Transgender je hanebný.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -990,7 +990,7 @@
       }
     },
     {
-      "question": "Trans adoption should be illegal.",
+      "question": "Transsexuální adopce by měla být nelegální.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1001,7 +1001,7 @@
       }
     },
     {
-      "question": "Cis adoption should be illegal.",
+      "question": "Cis adopce by měla být nelegální.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1012,7 +1012,7 @@
       }
     },
     {
-      "question": "'More like from male to cringey male' is an accurate description of gender transitioning.",
+      "question": "'Z kusu chlapa na cringe chlapa' je přesné přirovnání k transsexuálnímu přechodu.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1023,7 +1023,7 @@
       }
     },
     {
-      "question": "Permanently blocking people who don't use preferred pronouns is necessary.",
+      "question": "Trvalé blokování lidí, kteří nepoužívají správná zájmena, koncovky či minulý čas je nezbytné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1034,7 +1034,7 @@
       }
     },
     {
-      "question": "Eugenics against trans people are desirable.",
+      "question": "Eugenika vůči transgenderům jsou nezbytné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1045,7 +1045,7 @@
       }
     },
     {
-      "question": "Eugenics against cis people are desirable.",
+      "question": "Eugenika vůči cisgenderům jsou nezbytné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1056,7 +1056,7 @@
       }
     },
     {
-      "question": "A higher transgender suicide rate is desirable.",
+      "question": "Vyšší hodnota transgender sebevražd je nezbytná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1067,7 +1067,7 @@
       }
     },
     {
-      "question": "A higher cisgender suicide rate is desirable.",
+      "question": "Vyšší hodnota cisgender sebevražd je nezbytná.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1078,7 +1078,7 @@
       }
     },
     {
-      "question": "Most cisgender people are responsible for the ridicule they receive.",
+      "question": "Většina cisgenderů je zodpovědná za to, jakou hanbu si upečou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1089,7 +1089,7 @@
       }
     },
     {
-      "question": "Most transgender people are responsible for the ridicule they receive.",
+      "question": "Většina transgenderů je zodpovědná za to, jakou hanbu si upečou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1100,7 +1100,7 @@
       }
     },
     {
-      "question": "Fat people deserve to be mocked.",
+      "question": "Tlusťoši si zaslouží být zesměšňováni.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "question": "Thin people deserve to be mocked.",
+      "question": "Hubeňourové si zaslouží být zeměšňování.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1122,7 +1122,7 @@
       }
     },
     {
-      "question": "I'd rather date a thin person than a fat person.",
+      "question": "Raději bych měl/a rande s hubenou než-li tlustou osobou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1133,7 +1133,7 @@
       }
     },
     {
-      "question": "I'd rather date a fat person than a thin person.",
+      "question": "Raději bych měl/a rande s tlustou než-li hubenou osobou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "question": "I think obesity should not be accepted too well.",
+      "question": "Myslím si, že by se obezita neměla tolik tolerovat.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1155,7 +1155,7 @@
       }
     },
     {
-      "question": "Being underweight should not be socially acceptable.",
+      "question": "Podváha by se neměla tolik tolerovat.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1166,7 +1166,7 @@
       }
     },
     {
-      "question": "Having a high BMI is a bad thing.",
+      "question": "Mít vysoké BMI je špatné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1177,7 +1177,7 @@
       }
     },
     {
-      "question": "Having a low BMI is a bad thing.",
+      "question": "Mít nízké BMI je špatné.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1188,7 +1188,7 @@
       }
     },
     {
-      "question": "I fatshame often because there isn't anything wrong with it.",
+      "question": "Rád/a ponižuji tlusťochy, protože na tom není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1199,7 +1199,7 @@
       }
     },
     {
-      "question": "I thinshame often because there isn't anything wrong with it.",
+      "question": "Rád/a ponižuji hubeňoury, protože na tom není nic špatného.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1210,7 +1210,7 @@
       }
     },
     {
-      "question": "Eugenics against fat people should be socially accepted.",
+      "question": "Eugenika vůči tlustým lidem by měly být společensky tolerovány.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "question": "Eugenics against thin people should be socially accepted.",
+      "question": "Eugenika vůči hubeným lidem by měly být společensky tolerovány.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1232,7 +1232,7 @@
       }
     },
     {
-      "question": "If I owned a restaurant, I'd not sell food to a fat person.",
+      "question": "Pokud bych vlastnil/a restauraci, nikdy bych neprodal/a jídlo tlusťochovi.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1243,7 +1243,7 @@
       }
     },
     {
-      "question": "If I owned a restaurant, I'd not sell food to a thin person.",
+      "question": "Pokud bych vlastnil/a restauraci, nikdy bych neprodal/a jídlo hubeňourovi.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1254,7 +1254,7 @@
       }
     },
     {
-      "question": "The rise of obesity in children is desirable.",
+      "question": "Vzestup obezity u dětí je žádoucí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1265,7 +1265,7 @@
       }
     },
     {
-      "question": "Eating healthy and burning fat is desirable.",
+      "question": "Zdravá strava a pálení tuku je žádoucí.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1276,7 +1276,7 @@
       }
     },
     {
-      "question": "We should have large-scale campaigns that show people the health risks of obesity.",
+      "question": "Měli bychom provozovat rozsáhlé kampaně, které by lidem ukázaly rizika obezity.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1287,7 +1287,7 @@
       }
     },
     {
-      "question": "We should have large-scale campaigns that show people the health risks of undernourishment.",
+      "question": "Měli bychom provozovat rozsáhlé kampaně, které by lidem ukázaly rizika podváhy.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1298,7 +1298,7 @@
       }
     },
     {
-      "question": "Fatmocking and fatshaming should be fought with as much force as possible.",
+      "question": "S fatshamingem by se mělo bojovat s co největší silou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
@@ -1309,7 +1309,7 @@
       }
     },
     {
-      "question": "Thinmocking and thinshaming should be fought with as much force as possible.",
+      "question": "S thinshamingem by se mělo bojovat s co největší silou.",
       "effect": {
         "rcsm": 0,
         "sxsm": 0,
